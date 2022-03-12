@@ -9,7 +9,7 @@ port = 5433
 mensagem = 'Olá Beleza?'
 
 try:
-    print('Cliente: {}'.format(mensagem))
+    print('Cliente:' + mensagem)
     s.sendto(mensagem.encode(), (host, 5432))
 
     
