@@ -4,5 +4,5 @@ CREATE TABLE pessoa (
     nascimento DATE
 )
 
-INSERT INTO pessoa (nome, nascimento) VALUES ('Gabriel', '02-11-1997')
-INSERT INTO pessoa (nome, nascimento) VALUES ('Andre', '11-02-1997')
+INSERT INTO pessoa (nome, nascimento) VALUES ('Gabriel', '1997-11-02)
+INSERT INTO pessoa (nome, nascimento) VALUES ('Andre', '1997-02-11')
