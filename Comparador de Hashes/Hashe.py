@@ -1,7 +1,7 @@
 import hashlib
 
-arquivo = "C:\\Users\\gabriel\\Desktop\\Curso\\bot camp 2\\CODIGOS GIT\\DIO-BOOTCAMP\\Comparador de Hashes\\a.txt"
-arquivo1 = "C:\\Users\\gabriel\\Desktop\\Curso\\bot camp 2\\CODIGOS GIT\\DIO-BOOTCAMP\\Comparador de Hashes\\b.txt"
+arquivo = "./a.txt"
+arquivo1 = "./b.txt"
 
 texto1 = 'texto 1'
 texto2 = 'texto 2'
